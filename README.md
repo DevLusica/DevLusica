@@ -1,1 +1,1 @@
-![Twitch Status](https://img.shields.io/twitch/status/devlusica)
+!<img src="./profile.gif" width="30px"> Lusica
