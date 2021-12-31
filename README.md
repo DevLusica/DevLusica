@@ -1,1 +1,3 @@
 Lusica
+
+Blockchain Developer
