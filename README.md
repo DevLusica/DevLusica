@@ -1,3 +1,5 @@
 Lusica
 
 Blockchain Developer
+
+Solidity
