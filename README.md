@@ -1,7 +1,8 @@
-Lusica
+#Lusica
 
 Blockchain Developer
 
 Solidity
 
 Klaytn
+
