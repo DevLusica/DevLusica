@@ -1,8 +1,8 @@
 #Lusica
 
-Blockchain Developer
+ Blockchain Developer
 
-Solidity
+ Solidity
 
-Klaytn
+ Klaytn
 
