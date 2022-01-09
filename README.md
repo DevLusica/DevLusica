@@ -1,6 +1,6 @@
 #Lusica
 
- Blockchain Developer
+ - Blockchain Developer
 
  Solidity
 
